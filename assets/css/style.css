@@ -1,0 +1,14 @@
+
+/* Titulo */
+h1{
+    text-align: center;
+    padding-top: 30px;
+    text-decoration: none;
+}
+
+a.borrar-tweet{
+    position: absolute;
+    right: 20px;
+    color: red !important;
+   
+}
